@@ -1,0 +1,20 @@
+{
+  "name": "purescript-expression-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "pulp": "pulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pulp": "^11.0.2",
+    "purescript": "^0.11.6",
+    "purescript-psa": "^0.5.1"
+  }
+}
